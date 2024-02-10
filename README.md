@@ -27,3 +27,8 @@ If you already have Mesen setup and configured to use HDNes Packs you can skip t
 10. On the general tab of the video options make sure the "Use HDNes HD packs" option is checked and click ok
 
 11. Open the Pac-Man rom inside Mesen and you're good to go! 
+
+# Issues Report
+I tested this very extensively but there still may be bugs
+
+If you happen to see any bugs of any type please report the issue and i'll try to fix it as soon as i can
