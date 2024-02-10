@@ -4,7 +4,7 @@ This HDNes Pack for Mesen is a high resolution graphics pack for a FanMade versi
 This pack was built and tested with the latest Mesen version and features detailed spritework featuring more colors than the original.
 ![2](https://github.com/CatWarriorOfficial/Pac-ManJ2me-HDNes-Pack/assets/121696395/1ce28d53-5f44-4a0b-9dfc-4c463860b141)
 # How to Install (windows)
-If you already have mesen setup and configured to use HDNes Packs you can skip to the part where the pack gets installed
+If you already have Mesen setup and configured to use HDNes Packs you can skip to the part where the pack gets installed
 
 1. Download Mesen from their website https://www.mesen.ca/#Downloads
 
