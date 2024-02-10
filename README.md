@@ -8,7 +8,7 @@ If you already have Mesen setup and configured to use HDNes Packs you can skip t
 
 1. Download Mesen from their website https://www.mesen.ca/#Downloads
 
-2. Download the rom from archive.org (2021 version) https://archive.org/details/pac-man-clone-for-nes
+2. Download the rom from archive.org (This pack is for the 2021 version) https://archive.org/details/pac-man-clone-for-nes
 
 3. Extract the contents of the Mesen zip file onto the folder where you'll keep Mesen
 
